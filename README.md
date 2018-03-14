@@ -1,0 +1,1 @@
+CodeChef is a non-profit educational initiative of Directi. It is a global competitive programming platform which supports over 50 programming languages and has a large community of programmers that helps students and professionals test and improve their coding skills. Here are codes for problems I solved.
